@@ -72,4 +72,4 @@ deploy:
   message: update done
   repo:
     github: git@github.com:kellyzhong/kellyzhong.github.io.git,master
-    gitcafe: git@git.coding.net:kellyzhong/kellyzhong.git,master
+    gitcafe: git@git.oschina.net:Z-HLZ/kellyzhong.git,master
